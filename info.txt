@@ -8,6 +8,6 @@ tercera 	edicion
 
 cuarta edicion del programa
 
-Este comentario se agrega para hacer push
+Este comentario se agrega para hacer pull
 
 @esta es la quinta edicion del program y ultima
